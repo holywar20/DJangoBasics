@@ -1,0 +1,7 @@
+=SWITCH( 
+	B2,
+	"Switcher" , "Test" , 
+	"BOGO" , "test2" , 
+	""
+	"OTHER"
+	)
